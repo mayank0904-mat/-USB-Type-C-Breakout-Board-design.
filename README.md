@@ -13,4 +13,4 @@ A compact USB Type-C breakout board designed using KiCad.
 - KiCad
 
 ## Author
-Mayank
+Mayank Mathur
